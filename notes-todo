@@ -1,0 +1,24 @@
+if (playersession === true) {
+  createroom === true
+
+  joingame(room_id) === true
+
+  game(check)===false
+  if (room===true) then {
+    join
+  } else {failed}
+
+  if (game(check) === true) {
+    while (player1.win<=2 || player2.win<==2){
+      player1(game('batu') || game('gunting') || game('kertas'))
+      player2(game('batu') || game('gunting') || game('kertas'))
+      result.save
+    }
+
+  } else wait
+
+
+} else {
+  !createroom
+  !joingame(room_id)
+}
